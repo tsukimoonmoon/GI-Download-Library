@@ -1,0 +1,1 @@
+https://autopatchhkbeta.yuanshen.com/client_app/download/beta_pc/20220822212748_TYcR3odvr4a4WKUn/GenshinImpact_3.0.50_beta.zip
