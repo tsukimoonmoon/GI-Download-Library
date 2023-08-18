@@ -1,5 +1,7 @@
 # GI-Download-Library
 ![paimon](https://upload-static.hoyoverse.com/payment-center/2020/08/07/0ff079b16fe6f9dfbf4eeb6e88a760b6_3134491283013841501.png)
+
+https://sdk-static.mihoyo.com/hk4e_cn/mdk/launcher/api/resource?key=eYd89JmJ&launcher_id=18
 ## Genshin and Yuanshen Download Links
 
 ### What's inside
